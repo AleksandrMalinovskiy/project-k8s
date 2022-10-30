@@ -19,5 +19,5 @@ spec: # Блок спецификации деплоя
         component: ui
     spec:
       containers:
-      - image: aemalinovskiy/ui # Не забудьте подставить свой образ
+      - image: ui # Не забудьте подставить свой образ
         name: ui
